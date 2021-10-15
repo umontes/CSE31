@@ -1,1 +1,2 @@
-# CSE-31
+# CSE31
+Spring 2019 - Computer Organization
